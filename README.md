@@ -1,3 +1,5 @@
+![RoboxTeam header](docs/assets/header.jpg)
+
 # RoboxTeam Studio
 Roboxteam Studio is an IDE to create automation workflows.
 

@@ -8,8 +8,8 @@ You can [Download](https://www.roboxteam.com/download) latest version of Studio 
 
 For now it works only on Windows, but there are plans to have an OS independent version later this year.
 
-## Issues
-Please log any issue at [Issues](https://github.com/roboxteam/RoboxTeamStudio/issues) section and we will try our best to asnwer your questions.
+## [Issues](https://github.com/roboxteam/RoboxTeamStudio/issues)
+Please log any issue at issues section and we will try our best to asnwer your questions.
 
 
 

@@ -11,5 +11,7 @@ For now it works only on Windows, but there are plans to have an OS independent 
 ## Issues
 Visit [Issues](https://github.com/roboxteam/RoboxTeamStudio/issues) and ask us any questions related to Roboxteam Studio.
 
+## Samples
 
+Check out [Samples](https://github.com/roboxteam/RoboxTeamStudio/samples) page to download and play with already made workflows.
 

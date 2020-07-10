@@ -13,5 +13,5 @@ Visit [Issues](https://github.com/roboxteam/RoboxTeamStudio/issues) and ask us a
 
 ## Samples
 
-Check out [Samples](https://github.com/roboxteam/RoboxTeamStudio/samples) page to download and play with already made workflows.
+Check out [Samples](https://github.com/roboxteam/RoboxTeamStudio/tree/master/samples) page to download already made workflows.
 

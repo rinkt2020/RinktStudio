@@ -1,5 +1,6 @@
 ![Rinkt header](docs/assets/header.png)
 
+
 # Rinkt Studio
 Rinkt Studio is an IDE to create automation workflows.
 
